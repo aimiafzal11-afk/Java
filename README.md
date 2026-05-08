@@ -1,4 +1,4 @@
-# Project Name
+# Java
 
 This repository contains Java projects and source code developed for learning, practice, and implementation of programming concepts using Java.
 
